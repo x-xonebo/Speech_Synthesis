@@ -1,5 +1,5 @@
 Use deepvoice3 (https://github.com/r9y9/deepvoice3_pytorch)<br>
-## Requirement:<br>
+## Requirements:<br>
   &emsp;Python3<br>
   &emsp;CUDA >= 8.0<br>
   &emsp;Pytorch >= v0.4.0<br>
